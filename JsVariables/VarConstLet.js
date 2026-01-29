@@ -7,9 +7,9 @@ let accountState;// if we decare the varibale and not define the value to it,js 
 
 // accountId = 2
 
-// accountEmail = "sayed@123.com"
-// console.log(accountEmail);
-// accountPassword ="abc"
-// console.log(accountPassword);
+accountEmail = "sayed@123.com"
+console.log(accountEmail);
+accountPassword ="abc"
+console.log(accountPassword);
 accountCity="saidanpur"
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
