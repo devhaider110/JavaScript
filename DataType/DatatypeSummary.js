@@ -1,0 +1,2 @@
+// primivite (call by value) orignal data are n0t change ,the copy of the data will change
+// 7 types : String,Number Boolean,null(means empty) , undefine(variable decaler,memory spaces is decaler not vslueis define),Symbol, BigInt
